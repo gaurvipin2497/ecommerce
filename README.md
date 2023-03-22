@@ -18,7 +18,7 @@
  9. You can see your products in main page and other products. Also if products is sold.
  10. Bid products has a timer. You can bid a product as much as time has. After time is up, the product sold the biggest price.
 
-
+<b>Main Page</b>
 ![1](https://user-images.githubusercontent.com/70773825/227023443-ed502a10-9e6a-48f9-816a-dea8571d2c3f.png)
 ![main1](https://user-images.githubusercontent.com/70773825/227026488-00b1d67c-d7ff-48a9-8d3f-35008b926724.png)
 ![main](https://user-images.githubusercontent.com/70773825/227026509-88acd51b-d8bc-439f-a04e-72abb7d9a08e.png)
