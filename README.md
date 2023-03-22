@@ -1,6 +1,9 @@
 # PHP-EcommerceWebsite
  An example of a small e-commerce with PHP and MySQL
  
+  <b>HOW ITS WORK?</b><br><br>
+  I used MAMP server to run project. Download MAMP, add your already downloaded folder from here to MAMP/htdocs. For listing.sql file, you can import file to MYSQL using MAMP 
+ 
  <b>You can see all the pages and database (listing.sql)</b>
  
  <b>Existing features</b>
