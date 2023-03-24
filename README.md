@@ -47,12 +47,12 @@
 ![bid2](https://user-images.githubusercontent.com/70773825/227027078-69e5f269-02ea-4f29-a813-ba3018fea762.png)
 <hr>
 <br>
-<b>Seller Product</b>
+<b>Seller Page</b>
 
 ![seller](https://user-images.githubusercontent.com/70773825/227027156-26006709-07d9-4525-b0eb-f149cf8441eb.png)
 <hr>
 <br>
-<b>Categories</b>
+<b>Categories Page</b>
 
 ![cat](https://user-images.githubusercontent.com/70773825/227027240-9b51e053-aa9c-4d80-9194-a752f643101e.png)
 <hr>
