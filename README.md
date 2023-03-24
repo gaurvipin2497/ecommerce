@@ -1,4 +1,4 @@
-# PHP-Ecommerce
+# PHP-Ecommerce Website
  An example of a small e-commerce with PHP and MySQL
  
  *This was my web programming course final project so, I just want to share with you.* 
