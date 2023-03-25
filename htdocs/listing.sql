@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 
 --
 -- Database: `listing`
-CREATE Database listing
+CREATE Database listing;
 USE listing
 --
 
