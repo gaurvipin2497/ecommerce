@@ -1,5 +1,5 @@
 <?php 
-$con =mysqli_connect("localhost","root","root","listing");
+$con =mysqli_connect("localhost","root","","listing");
 
 if(!$con){
       
